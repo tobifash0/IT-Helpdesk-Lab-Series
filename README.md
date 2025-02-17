@@ -19,7 +19,8 @@ Develop and document a foundational understanding of enterprise IT tools and wor
 ## Lab Topics
 In order, each lab are steps focuses on specific objectives, tools, and workflows to simulate real-world IT scenarios. Below is the list of labs in the series:
 
-1. Installing VirtualBox and Server 2022
+1. [Installing VirtualBox and Server 2022] (![68747470733a2f2f692e696d6775722e636f6d2f5538373538546c2e706e67 (1)](https://github.com/user-attachments/assets/4024024b-83b6-41ae-9381-ec44fbea15ea)
+
 2. Renaming Server 2022 and Installing Active Directory
 3. Active Directory Account Creation, CMD Commands
 4. Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager
