@@ -24,7 +24,7 @@ In order, each lab are steps focuses on specific objectives, tools, and workflow
 2. [Renaming Server 2022 and Installing Active Directory](https://github.com/tobifash0/Renaming-Server-2022-and-Installing-Active-Directory)
 3. [Active Directory Account Creation, CMD Commands](https://github.com/tobifash0/Active-Directory-Account-Creation-CMD-Commands)
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/tobifash0/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager)
-5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/tobifash0/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager)
+5. Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports
 6. Common Active Directory Issues, CMD Commands, PC Offline
 7. Security Groups, Mapped Drives, Personal Drives
 8. Windows 10 Remote Access: Remote Desktop, Remote Registry
