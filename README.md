@@ -31,7 +31,7 @@ In order, each lab are steps focuses on specific objectives, tools, and workflow
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/tobifash0/RSOP-Group-Policy-Task-Manager-Disable-Logoff)
 10. [Installing and Deploying Software with PDQ](Installing-and-Deploying-Software-with-PDQ)
 11. [PDQ Inventory: Hardware and Software Reporting](https://github.com/tobifash0/PDQ-Inventory-Hardware-and-Software-Reporting)
-12. Printer Setup on Server 2022, NTFS Permissions
+12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/tobifash0/Printer-Setup-on-Server-2022-NTFS-Permissions)
 13. Understanding Tickets Using Spiceworks
 14. Delegate Control and Account Lockout Management
 
