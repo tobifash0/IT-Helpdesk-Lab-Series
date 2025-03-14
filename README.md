@@ -28,7 +28,7 @@ In order, each lab are steps focuses on specific objectives, tools, and workflow
 6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/tobifash0/Common-Active-Directory-Issues-CMD-Commands-PC-Offline)
 7. [Security Groups, Mapped Drives, Personal Drives](https://github.com/tobifash0/Security-Groups-Mapped-Drives-Personal-Drives)
 8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](https://github.com/tobifash0/Windows-10-Remote-Access-RemotDesktop-Remote-Registry)
-9. RSOP, Group Policy, Task Manager, Disable Logoff
+9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/tobifash0/RSOP-Group-Policy-Task-Manager-Disable-Logoff)
 10. Installing and Deploying Software with PDQ
 11. PDQ Inventory: Hardware and Software Reporting
 12. Printer Setup on Server 2022, NTFS Permissions
