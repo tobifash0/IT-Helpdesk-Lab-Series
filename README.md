@@ -33,7 +33,7 @@ In order, each lab are steps focuses on specific objectives, tools, and workflow
 11. [PDQ Inventory: Hardware and Software Reporting](https://github.com/tobifash0/PDQ-Inventory-Hardware-and-Software-Reporting)
 12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/tobifash0/Printer-Setup-on-Server-2022-NTFS-Permissions)
 13. [Understanding Tickets Using Spiceworks](https://github.com/tobifash0/Understanding-Tickets-Using-Spiceworks)
-14. Delegate Control and Account Lockout Management
+14. [Delegate Control and Account Lockout Management](https://github.com/tobifash0/Delegate-Control-and-Account-Lockout-Management)
 
 ## Skills Demonstrated
 
